@@ -1,0 +1,13 @@
+Infected,Neural Network,Fold,Day,Susceptible,Recovered
+continuous,continuous,discrete,continuous,continuous,continuous
+class,meta,meta,,,
+1,2.44965,1,99,53,946
+12,11.575,1,74,55,933
+4,4.67785,1,86,53,942
+6,6.06552,1,82,54,940
+219,213.076,1,20,636,145
+40,39.0752,1,60,61,899
+15,14.5823,1,71,56,929
+106,96.1819,1,14,840,54
+2,3.16961,1,92,53,944
+84,84.9305,1,51,72,844
